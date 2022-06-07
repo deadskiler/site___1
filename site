@@ -1,0 +1,30 @@
+<html>
+    <head>
+        <title>Мухамадеев Д.Г.</title>
+<link rel="stylesheet" href="pict/STYLE.css">
+    </head>
+    <body topmargin="100" bottommargin="100" rightmargin="100" leftmargin="100" bgcolor="#255.255.255.">
+        <!-- Раздел: Обо мне -->
+        <h1>Обо мне</h1>
+        Мухамадеев Даниил Гаптулхакович
+        Электромонтер РОЭ
+        <br><br>
+        <hr color="#A6A000" size=10 width=1000></hr>
+
+        <!-- Раздел: Увлечения -->
+        <h1>Увлечения</h1>
+        <ol type="I">
+            <li>Катание на сноуборде</li>
+            <li>киберСпорт
+                <ol>
+                    <li>Бег</li>
+                    <li>Сон</li>
+                </ol>
+            </li>
+        </ol>
+        <br>
+        <hr color="#A6A000" size=10 width=1000></hr>
+
+        <img src="pict/Jh36nOy2Iys.jpg" width="100%" height="100%">
+    </body>
+</html>
